@@ -4,6 +4,8 @@ package io;
  * 常用io流--文件字节流:文件输入流
  * FileInputStream
  */
+
+
 import java.io.*;
 public class Io02 {
 	public static void main(String[] args) {
