@@ -17,6 +17,7 @@ public class Io01 {
 		
 		
 		
+		
 		//创建文件夹
 		File f3=new File("e:\\ff");
 		//判断文件夹是否存在
